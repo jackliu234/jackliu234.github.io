@@ -1,3 +1,17 @@
-title: My GitHub Page
-description: This is my personal website
+title: Jack Liu
+description: Welcome to my personal site – a place to share my projects, ideas, and updates.
+url: "https://your-username.github.io" # replace with your actual GitHub Pages URL
 theme: minima
+
+# Optional: social links
+github_username: your-username
+linkedin_username: your-linkedin
+twitter_username: your-twitter
+
+# Optional: Google Analytics (replace with your tracking ID if needed)
+# google_analytics: G-XXXXXXXXXX
+
+# Plugins (minima supports these by default)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
