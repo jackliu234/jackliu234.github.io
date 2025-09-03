@@ -1,15 +1,8 @@
-title: "Momo's Journal"
-theme: primer
+title: A Blog
+description: This is a blog
 
-# Optional: social links
-# github_username: your-username
-# linkedin_username: your-linkedin
-# twitter_username: your-twitter
 
-# Optional: Google Analytics (replace with your tracking ID if needed)
-# google_analytics: G-XXXXXXXXXX
-
-# Plugins (minima supports these by default)
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
