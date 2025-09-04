@@ -1,6 +1,6 @@
 
 <details>
-  <summary>TITLE/summary>
+  <summary> TITLE </summary>
   CONTENT <br><br>
 </details>
 
