@@ -1,5 +1,10 @@
 
 <details>
+  <summary>TITLE/summary>
+  CONTENT <br><br>
+</details>
+
+<details>
   <summary>2025-7-3 阿拉斯加</summary>
 
 今天从ORD出发前往阿拉斯加的航班。想着碰运气进了UA Club的贵宾休息室，一进门就闻到了里面空气中散漫的香水味，和充满阳光的走廊，和外面的经济舱concourse形成了鲜明的对比。一男一女接待员露出热情的微笑，然后在得知我不是international的商务舱后，目送我离开。有钱真好，连空气也是香的。<br><br>
