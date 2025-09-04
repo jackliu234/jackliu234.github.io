@@ -30,13 +30,13 @@ Parthenope是一部意大利电影，好像是制作于A24，需要查下这是�
 
 <blockquote>
 The true test of a man’s character is what he does when no one is watching. -John Wooden
-</blockquote><br><br>
+</blockquote>
 
 在网上找这条引用的出处时又看到了这么一句，摘抄下来警示自己。<br><br>
 
 <blockquote>
 Be more concerned with your <b>character</b> than your <b>reputation</b>reputation, because your character is what you really are, while your reputation is merely what others think you are. -John Wooden 
-</blockquote><br><br>
+</blockquote>
 
 </details>
 
