@@ -26,11 +26,11 @@ Parthenope是一部意大利电影，好像是制作于A24，需要查下这是�
 
 聊一聊釜山行吧，这是一部韩国人拍的僵尸题材电影，我在听了费城朋友们的讨论和看了知乎上的剧透分析文后，终于决定要看一下，最终这部戏没有让我失望。全剧两小时剧情非常紧凑，演员们的演技都还不错，全程没有什么槽点。看完全剧之后有一种深深的压抑感，可能是因为人都死光了，也可能是因为许多幕人们面对亲人的离去却无力回天。和Walking Dead相似，这部剧也着重反映了在危机中人与人之间的关系的转变。一个西装笔挺的商人可以为了自己对同僚们做出种种伤天害理的行为，反而一个口齿不清的乞丐却能在关键时候挺身而出舍己救人。<br><br>
 
-The true test of a man’s character is what he does when no one is watching. -John Wooden
+> The true test of a man’s character is what he does when no one is watching. -John Wooden
 
 在网上找这条引用的出处时又看到了这么一句，摘抄下来警示自己。
 
-Be more concerned with your **character** than your **reputation**, because your character is what you really are, while your reputation is merely what others think you are. -John Wooden
+> Be more concerned with your **character** than your **reputation**, because your character is what you really are, while your reputation is merely what others think you are. -John Wooden
 
 </details>
 
