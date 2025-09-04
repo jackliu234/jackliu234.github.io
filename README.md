@@ -17,7 +17,22 @@ Parthenope是一部意大利电影，好像是制作于A24，需要查下这是�
 
 </details>
 
+<details>
+  <summary> 2016-9-22 芝加哥（2）</summary>
 
+一个月内第二次来到芝加哥，这次的运气可比上次差多了。由于星期一非常任性地在晚上看了《釜山行》，一点钟才睡，早上还要早起赶7点半钟的飞机，睡眠不足外加飞机上的空调，最终导致身体被拖垮。星期三早上一起来就发了低烧，中午就从公司回家吃了粒泰诺并且睡了一觉，直到晚上10点才睡醒，醒来终于感觉好了许多。晚上去了Michigan Ave上的一家叫The Purple Pig的餐厅，主打Small Plate，我点了鱿鱼色拉和鹅肝配草莓酱，非常好吃。由于当时没照相，就从Yelp上偷了张图。<br><br>
+
+这次住的Sheraton Grand Chicago坐落在River North，楼下就是Chicago River，酒店的窗户可以斜斜看到Lake Michigan。窗外正对着The Loop的一栋栋晚上9点还灯火通明的办公楼。<br><br>
+
+聊一聊釜山行吧，这是一部韩国人拍的僵尸题材电影，我在听了费城朋友们的讨论和看了知乎上的剧透分析文后，终于决定要看一下，最终这部戏没有让我失望。全剧两小时剧情非常紧凑，演员们的演技都还不错，全程没有什么槽点。看完全剧之后有一种深深的压抑感，可能是因为人都死光了，也可能是因为许多幕人们面对亲人的离去却无力回天。和Walking Dead相似，这部剧也着重反映了在危机中人与人之间的关系的转变。一个西装笔挺的商人可以为了自己对同僚们做出种种伤天害理的行为，反而一个口齿不清的乞丐却能在关键时候挺身而出舍己救人。<br><br>
+
+The true test of a man’s character is what he does when no one is watching. -John Wooden
+
+在网上找这条引用的出处时又看到了这么一句，摘抄下来警示自己。
+
+Be more concerned with your **character** than your **reputation**, because your character is what you really are, while your reputation is merely what others think you are. -John Wooden
+
+</details>
 
 <details>
   <summary>2016-9-17 芝加哥（1）</summary>
