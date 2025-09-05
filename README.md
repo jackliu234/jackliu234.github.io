@@ -327,7 +327,7 @@ Be more concerned with your <b>character</b> than your <b>reputation</b>, becaus
 
 
 <details>
-  <summary>2016-9-17 芝加哥 </summary><br>
+  <summary>2016-9-17 芝加哥（一）</summary><br>
 今天是美国劳工节最后一天休假，原本三天的小长假被我延长了两天。鉴于十二月只需用去三个星期的带薪假，这次就多休息了两天， 当做是夏末的最后一次放松。今早六点就爬起了床，洗漱后便uber来到了newark机场，谁知在uber上的时候才看到飞机延误的信息，从7：35延迟到了10：00，顿时发现白起这么早了。到达机场后工费吃了个早饭便坐在候机室看soccernomics。<br><br>
 
 这本书是我三个月以前买的，当时还开到了jersey的一个barnes and noble。在体育专柜看到的，书名是沿用了freaknomics，但是用经济学的角度去审视欧足球业的兴衰。作者simon kuper（英国）和stefan szymanski（美国，MI）用英超近代史上有代表性的俱乐部们的故事来佐证他们对足球行业一些自然规则的看法。其中比较有趣的有：<br><br>
