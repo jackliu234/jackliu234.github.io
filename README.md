@@ -1,5 +1,5 @@
 <details>
-  <summary>2025-9-4 黄金时代 </summary><br>
+  <summary>2025-9-5 黄金时代 </summary><br>
 今天去机场的路上，重读了黄金时代，王小波的文字跟印象中一样，让人读起来很舒服。<br><br>
 
 <blockquote>
