@@ -8,5 +8,5 @@
 <a href="{{ site.baseurl }}/pics/2025-7-alaska/"> 2025-7 Alaska </a><br>
 <a href="{{ site.baseurl }}/pics/2025-5-japan/"> 2025-5 Japan </a><br>
 
-### Nikon D5300
+### Nikon D5600
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru </a><br>
