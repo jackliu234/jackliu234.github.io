@@ -42,12 +42,12 @@
 </div>
 
 <div id="Tab1" class="tab-content">
-  <h3>Tab 1</h3>
+  <h3>Blog</h3>
   <p>Content for Tab 1 goes here.</p>
 </div>
 
 <div id="Tab2" class="tab-content">
-  <h3>Tab 2</h3>
+  <h3>Travel</h3>
   <p>Content for Tab 2 goes here.</p>
 </div>
 
