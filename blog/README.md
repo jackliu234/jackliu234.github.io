@@ -5,12 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Protected Page</title>
 <script>
-const password = "momo"; // set your password here
+const password = "Momo"; // set your password here
 
 window.onload = function() {
   const userPassword = prompt("Enter the password to access this page:");
   if (userPassword !== password) {
-    document.body.innerHTML = "<h1>Access Denied</h1>";
   }
 };
 </script>
