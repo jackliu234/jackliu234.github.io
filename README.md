@@ -380,3 +380,8 @@ Be more concerned with your <b>character</b> than your <b>reputation</b>, becaus
 跑题了，芝大非常漂亮，有点耶鲁的感觉。学校处处耸立着中世纪风格的建筑和教堂塔楼。最令人过目不忘的是那茂密的爬山虎，覆盖在一栋栋教学楼上，就像一件清爽的衣裳，让教学楼可以躲避炎热的烈日。<br><br>
 
 </details>
+
+### 旅游照片
+<a href="tools/"> 2025-9 Amsterdam </a>
+
+
