@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Protected Page</title>
 <script>
-const password = "Momo"; // set your password here
+const password = "2020"; // set your password here
 
 window.onload = function() {
   const userPassword = prompt("Enter the password to access this page:");
@@ -15,7 +15,6 @@ window.onload = function() {
 </script>
 </head>
 <body>
-
 
 ### 随便写写
 
