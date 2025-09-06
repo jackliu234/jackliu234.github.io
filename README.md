@@ -18,7 +18,7 @@
 </head>
 <body>
 
-<img src="images/photo1.jpg" alt="Photo" class="full-width-image">
+<img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
 
 </body>
 </html>
