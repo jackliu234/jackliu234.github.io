@@ -382,6 +382,6 @@ Be more concerned with your <b>character</b> than your <b>reputation</b>, becaus
 </details>
 
 ### 旅游照片
-<a href="{{ site.baseurl }}/tools/"> 2025-9 Amsterdam </a>
+<a href="{{ site.baseurl }}/tools/2025-9-ams/"> 2025-9 Amsterdam </a>
 
 
