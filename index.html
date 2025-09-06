@@ -1,18 +1,30 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-  body {
-    margin: 0; /* remove default margins */
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
   }
 
   .gallery {
-    width: auto;      /* fills the container width */
-    height: auto;     /* preserves aspect ratio */
-    display: block;   /* remove default inline spacing */
-  }
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery img {
+  height: auto;     /* preserve aspect ratio */
+  width: auto;      /* adjust width automatically */
+  display: block;
+}
+  
 </style>
 </head>
 <body>
