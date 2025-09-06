@@ -16,20 +16,19 @@ layout: default
   }
 
   .gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 0; /* no spacing between images */
-    width: 100%;
-    height: 100%;
-  }
+  display: flex;        /* use flex instead of grid for row-based layout */
+  flex-wrap: wrap;      /* wrap to next row */
+  gap: 0;               /* no spacing between images */
+  width: 100%;
+}
 
-  .gallery img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* fills the grid cell, crops if necessary */
-    display: block;
-    border: none; /* remove any borders */
-  }
+.gallery img {
+  height: 200px;        /* fixed row height */
+  width: auto;          /* width adjusts dynamically to keep aspect ratio */
+  display: block;
+  object-fit: contain;  /* optional, keeps full image inside the box */
+  border: none;
+}
 </style>
 </head>
 <body>
