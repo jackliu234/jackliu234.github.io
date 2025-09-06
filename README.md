@@ -1,3 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Two Tabs Example</title>
+<style>
+  .tab {
+    overflow: hidden;
+    border-bottom: 2px solid #ccc;
+  }
+  .tab button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    padding: 14px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .tab button:hover {
+    background-color: #ddd;
+  }
+  .tab button.active {
+    border-bottom: 2px solid #007BFF;
+    font-weight: bold;
+  }
+  .tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+</style>
+</head>
+<body>
+
+<h2>Two Tabs Example</h2>
+
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Tab1')" id="defaultOpen">Tab 1</button>
+  <button class="tablinks" onclick="openTab(event, 'Tab2')">Tab 2</button>
+</div>
+
+<div id="Tab1" class="tab-content">
+  <h3>Tab 1</h3>
+  <p>Content for Tab 1 goes here.</p>
+</div>
+
+<div id="Tab2" class="tab-content">
+  <h3>Tab 2</h3>
+  <p>Content for Tab 2 goes here.</p>
+</div>
+
+<script>
+function openTab(evt, tabName) {
+  const tabContents = document.getElementsByClassName("tab-content");
+  for (let i = 0; i < tabContents.length; i++) {
+    tabContents[i].style.display = "none";
+  }
+
+  const tabLinks = document.getElementsByClassName("tablinks");
+  for (let i = 0; i < tabLinks.length; i++) {
+    tabLinks[i].className = tabLinks[i].className.replace(" active", "");
+  }
+
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Open the first tab by default
+document.getElementById("defaultOpen").click();
+</script>
+
+
+
+
 <details>
   <summary>2025-9-6 命运 </summary><br>
 
@@ -378,3 +454,7 @@ Be more concerned with your <b>character</b> than your <b>reputation</b>, becaus
 跑题了，芝大非常漂亮，有点耶鲁的感觉。学校处处耸立着中世纪风格的建筑和教堂塔楼。最令人过目不忘的是那茂密的爬山虎，覆盖在一栋栋教学楼上，就像一件清爽的衣裳，让教学楼可以躲避炎热的烈日。<br><br>
 
 </details>
+
+
+</body>
+</html>
