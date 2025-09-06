@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -10,6 +10,7 @@ const password = "2020"; // set your password here
 window.onload = function() {
   const userPassword = prompt("Enter the password to access this page:");
   if (userPassword !== password) {
+  	document.body.innerHTML = "";  
   }
 };
 </script>
