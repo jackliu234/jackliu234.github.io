@@ -1,2 +1,0 @@
-### 旅游照片
-<a href="{{ site.baseurl }}/tools/2025-9-Amsterdam/"> 2025-9 Amsterdam </a>
