@@ -18,7 +18,7 @@
 </head>
 <body>
 
-<img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
+<img src="IMG_5410.jpeg" alt="IMG_5410.jpeg">
 
 </body>
 </html>
