@@ -1,6 +1,7 @@
 title: "Momo的角落"
 description: 
 
+baseurl: ""
 
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
