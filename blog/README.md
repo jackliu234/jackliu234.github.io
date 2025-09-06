@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Protected Page</title>
+<script>
+const password = "momo"; // set your password here
+
+window.onload = function() {
+  const userPassword = prompt("Enter the password to access this page:");
+  if (userPassword !== password) {
+    document.body.innerHTML = "<h1>Access Denied</h1>";
+  }
+};
+</script>
+</head>
+<body>
+
+
 ### 随便写写
 
 <details>
@@ -382,5 +402,7 @@ Be more concerned with your <b>character</b> than your <b>reputation</b>, becaus
 </details>
 
 
+</body>
+</html>
 
 
