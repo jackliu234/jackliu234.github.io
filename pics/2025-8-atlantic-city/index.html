@@ -33,7 +33,7 @@ layout: default
 <body>
 
 <div class="gallery">
-  {% assign images = site.static_files | where_exp:"file","file.path contains '/images/'" %}
+  {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-8-atlantic-city/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
