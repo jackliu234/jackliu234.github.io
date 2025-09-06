@@ -1,3 +1,5 @@
+# 随便写写
+
 <details>
   <summary>2025-9-6 命运 </summary><br>
 
