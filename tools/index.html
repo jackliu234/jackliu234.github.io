@@ -9,15 +9,31 @@ layout: default
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Jekyll Auto Gallery</title>
 <style>
-  body { font-family: Arial, sans-serif; background: #f9f9f9; padding: 20px; }
-  h1 { text-align: center; margin-bottom: 20px; }
-  .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; }
-  .gallery img { width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0; /* no spacing between images */
+    width: 100%;
+    height: 100%;
+  }
+
+  .gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* fills the grid cell, crops if necessary */
+    display: block;
+    border: none; /* remove any borders */
+  }
 </style>
 </head>
 <body>
 
-<h1>My Auto Gallery</h1>
 <div class="gallery">
   {% assign images = site.static_files | where_exp:"file","file.path contains '/images/'" %}
   {% for img in images %}
