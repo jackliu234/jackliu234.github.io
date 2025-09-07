@@ -11,7 +11,7 @@
 ### Nikon F100
 <a href="{{ site.baseurl }}/pics/2019-10-chicago/"> 2019-10 Chicago </a><br>
 
-### Nikon D5X00
+### Nikon D5600
 <a href="{{ site.baseurl }}/pics/2019-9-italy/"> 2019-9 Italy </a><br>
 <a href="{{ site.baseurl }}/pics/2019-8-yunnan/"> 2019-8 Yunnan </a><br>
 <a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji and Sydney </a><br>
