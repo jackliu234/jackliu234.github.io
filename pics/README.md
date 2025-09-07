@@ -9,4 +9,5 @@
 <a href="{{ site.baseurl }}/pics/2025-5-japan/"> 2025-5 Japan </a><br>
 
 ### Nikon D5600
+<a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru </a><br>
