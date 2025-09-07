@@ -10,5 +10,5 @@
 
 ### Nikon D5X00
 <a href="{{ site.baseurl }}/pics/2019-9-italy/"> 2019-9 Italy </a><br>
-<a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji </a><br>
+<a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji and Sydney </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru </a><br>
