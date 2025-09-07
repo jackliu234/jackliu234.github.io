@@ -13,6 +13,6 @@
 
 ### Nikon D5600
 <a href="{{ site.baseurl }}/pics/2019-9-italy/"> 2019-9 Italy </a><br>
-<a href="{{ site.baseurl }}/pics/2019-8-yunnan/"> 2019-8 Yunnan </a><br>
+<a href="{{ site.baseurl }}/pics/2019-8-yunnan/"> 2019-8 云南 </a><br>
 <a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji and Sydney </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru and Bolivia </a><br>
