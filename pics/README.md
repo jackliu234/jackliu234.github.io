@@ -7,6 +7,6 @@
 ### Nikon F100 SLR (Film)
 <a href="{{ site.baseurl }}/pics/2019-10-chicago/"> 2019-10 chicago </a><br>
 
-### Nikon D5100/D5600 DSLR
+### Nikon D5600 DSLR
 <a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru </a><br>
