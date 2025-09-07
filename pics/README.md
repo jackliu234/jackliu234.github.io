@@ -16,4 +16,7 @@
 <a href="{{ site.baseurl }}/pics/2019-8-yunnan/"> 2019-8 云南 </a><br>
 <a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji and Sydney </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru and Bolivia </a><br>
-<a href="{{ site.baseurl }}/pics/2027-5-nyc/"> 2017-5 NYC </a><br>
+<a href="{{ site.baseurl }}/pics/2017-5-nyc/"> 2017-5 NYC </a><br>
+
+### Canon IXUS 900Ti
+<a href="{{ site.baseurl }}/pics/2012-8-yunnan/"> 2012-8 云南 </a><br>
