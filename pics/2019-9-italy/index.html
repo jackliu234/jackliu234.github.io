@@ -1,1 +1,43 @@
+---
+layout: default
+---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  .gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0; /* optional */
+}
+
+.gallery img {
+  flex: 0 1 auto;   /* grow and shrink proportionally */
+  height: auto;     /* preserve aspect ratio */
+  max-height: 300px; /* optional: limit height */
+  width: auto;      /* adjust width automatically */
+  display: block;
+}
+  
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  {% assign images = site.static_files | where_exp:"file","file.path contains '/2019-9-italy/images/'" %}
+  {% for img in images %}
+    <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
+  {% endfor %}
+</div>
+
+</body>
+</html>
