@@ -4,7 +4,7 @@
 <a href="{{ site.baseurl }}/pics/2025-8-nyc/"> 2025-8 NYC </a><br>
 <a href="{{ site.baseurl }}/pics/2025-7-hoboken/"> 2025-7 Hoboken </a><br>
 
-### Nikon F100 35mm Film SLR
+### Nikon F100 SLR w/ 35mm Film
 <a href="{{ site.baseurl }}/pics/2019-10-chicago/"> 2019-10 Chicago </a><br>
 
 ### Nikon D5600 DSLR
