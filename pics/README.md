@@ -5,8 +5,6 @@
 <a href="{{ site.baseurl }}/pics/2025-7-hoboken/"> 2025-7 Hoboken </a><br>
 
 
-### Nikon D5600
+### Nikon D5X00
 <a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji </a><br>
-
-### Nikon D5100
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru </a><br>
