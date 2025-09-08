@@ -59,7 +59,6 @@ window.onload = function() {
 <details>
   <summary>2025-9-5 黄金时代 </summary><br>
 
-（一）<br><br>
 <blockquote>
 那一天我二十一岁，在我一生的黄金年代，我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。
 </blockquote><br>
