@@ -9,14 +9,15 @@ const password = "2020"; // set your password here
 window.onload = function() {
   const userPassword = prompt("Password:");
   if (userPassword !== password) {
-  	document.body.innerHTML = "";  
-  }
-};
+  	document.body.innerHTML = "404";  
+  } 
+}; 
 </script>
 </head>
-<body>
+<body> 
 
 <h3>随便写写</h3>
+
 
 <details>
   <summary>2025-9-6 命运 </summary><br>
