@@ -19,18 +19,8 @@ window.onload = function() {
 <h3>随便写写</h3>
 
 
-
 <details>
-  <summary>2025-9-8 荷兰 </summary><br>
-
-
-
-</details>
-
-
-
-<details>
-  <summary>2025-9-6 命运（一） </summary><br>
+  <summary>2025-9-6 命运 </summary><br>
 
 （一）<br><br>
 <blockquote>
