@@ -6,9 +6,6 @@
 <a href="{{ site.baseurl }}/pics/2025-8-nyc/"> 2025-8 NYC </a><br>
 <a href="{{ site.baseurl }}/pics/2025-7-hoboken/"> 2025-7 Hoboken </a><br>
 
-<b>iPhone 16 Pro</b><br>
-<a href="{{ site.baseurl }}/pics/2025-7-alaska/"> 2025-7 Alaska</a><br>
-
 <b>Nikon F100</b><br>
 <a href="{{ site.baseurl }}/pics/2019-10-chicago/"> 2019-10 Chicago </a><br>
 
@@ -17,7 +14,6 @@
 <a href="{{ site.baseurl }}/pics/2019-8-yunnan/"> 2019-8 云南 </a><br>
 <a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji and Sydney </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru and Bolivia </a><br>
-<a href="{{ site.baseurl }}/pics/2017-5-nyc/"> 2017-5 NYC </a><br>
 
 <b>Canon IXUS 900Ti</b><br>
 <a href="{{ site.baseurl }}/pics/2012-8-yunnan/"> 2012-8 云南 </a><br>
