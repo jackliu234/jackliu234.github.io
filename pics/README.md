@@ -14,5 +14,5 @@
 <a href="{{ site.baseurl }}/pics/2019-7-fiji/"> 2019-7 Fiji </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru </a><br>
 
-<b>Canon IXUS 900Ti</b><br>
+<b>Canon 900Ti</b><br>
 <a href="{{ site.baseurl }}/pics/2012-8-yunnan/"> 2012-8 Yunnan </a><br>
