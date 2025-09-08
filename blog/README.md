@@ -1,21 +1,3 @@
-
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script>
-const password = "2020"; // set your password here
-
-window.onload = function() {
-  const userPassword = prompt("Password:");
-  if (userPassword !== password) {
-  	document.body.innerHTML = "404";  
-  } 
-}; 
-</script>
-</head>
-<body> 
-
 <h3>随便写写</h3>
 
 
@@ -329,11 +311,7 @@ The true test of a man’s character is what he does when no one is watching ...
 
 跑题了，芝大非常漂亮，有点耶鲁的感觉。学校处处耸立着中世纪风格的建筑和教堂塔楼。最令人过目不忘的是那茂密的爬山虎，覆盖在一栋栋教学楼上，就像一件清爽的衣裳，让教学楼可以躲避炎热的烈日。<br><br>
 
-</details>
 
-
-</body>
-</html>
 
 
 
