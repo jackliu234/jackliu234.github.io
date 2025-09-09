@@ -1,5 +1,6 @@
 
 <b>Fujifilm X100VI</b><br>
+<a href="{{ site.baseurl }}/pics/2025-9-brussels/"> 2025-9 Brussels</a><br>
 <a href="{{ site.baseurl }}/pics/2025-9-giethoorn-zaan/"> 2025-9 Giethoorn</a><br>
 <a href="{{ site.baseurl }}/pics/2025-9-amsterdam/"> 2025-9 Amsterdam</a><br>
 <a href="{{ site.baseurl }}/pics/2025-8-nyc/"> 2025-8 NYC </a><br>
