@@ -16,3 +16,6 @@
 
 <b>Canon 900Ti</b><br>
 <a href="{{ site.baseurl }}/pics/2012-8-yunnan/"> 2012-8 Yunnan </a><br>
+
+<b>Painting</b><br>
+<a href="{{ site.baseurl }}/pics/drawings/"> 2025 </a><br>
