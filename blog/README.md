@@ -1,3 +1,20 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+const password = "2020"; // set your password here
+
+window.onload = function() {
+  const userPassword = prompt("Password:");
+  if (userPassword !== password) {
+  	document.body.innerHTML = "404";  
+  } 
+}; 
+</script>
+</head>
+<body> 
+
 <h3>随便写写</h3>
 
 
@@ -254,6 +271,9 @@ The true test of a man’s character is what he does when no one is watching ...
 
 </details>
 
+
+</body>
+</html>
 
 
 
