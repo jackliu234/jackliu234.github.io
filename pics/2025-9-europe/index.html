@@ -32,7 +32,7 @@ layout: default
 </head>
 <body>
 
-<br><b>Amsterdam</b><br>
+<b>Amsterdam</b><br>
 <div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-amsterdam/images/'" %}
   {% for img in images %}
