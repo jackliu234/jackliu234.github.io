@@ -32,35 +32,37 @@ layout: default
 </head>
 <body>
 
-<div class="gallery">
-  <b>Amsterdam</b><br>
+<b>Amsterdam</b><br>
+<div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-amsterdam/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
-  <br><br>
+</div>
 
-  <b>Giethoorn and Zaan</b><br>
+
+<b>Giethoorn and Zaan</b><br>
+<div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-giethoorn-zaan/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
-  <br><br>
+</div>
 
-  <b>Brussels</b><br>
+<b>Brussels</b><br>
+<div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-brussels/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
-  <br><br>
+</div>
 
-  <b>Barcelona</b><br>
+<b>Barcelona</b><br>
+<div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-barca/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
-  <br><br>
-
 </div>
 
 </body>
