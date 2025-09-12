@@ -32,7 +32,7 @@ layout: default
 </head>
 <body>
 
-<b>Amsterdam</b><br>
+<br><b>Amsterdam</b><br>
 <div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-amsterdam/images/'" %}
   {% for img in images %}
@@ -40,8 +40,7 @@ layout: default
   {% endfor %}
 </div>
 
-
-<b>Giethoorn and Zaan</b><br>
+<br><b>Giethoorn and Zaan</b><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-giethoorn-zaan/images/'" %}
   {% for img in images %}
@@ -49,7 +48,7 @@ layout: default
   {% endfor %}
 </div>
 
-<b>Brussels</b><br>
+<br><b>Brussels</b><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-brussels/images/'" %}
   {% for img in images %}
@@ -57,7 +56,7 @@ layout: default
   {% endfor %}
 </div>
 
-<b>Barcelona</b><br>
+<br><b>Barcelona</b><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-barca/images/'" %}
   {% for img in images %}
