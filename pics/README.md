@@ -8,7 +8,7 @@
 <a href="{{ site.baseurl }}/pics/2019-10-chicago/"> 2019-10 Chicago </a><br>
 
 <b>Nikon D5X00</b><br>
-<a href="{{ site.baseurl }}/pics/2019-9-italy/"> 2019-9 Italy </a><br>
+<a href="{{ site.baseurl }}/pics/2019-9-europe/"> 2019-9 Europe </a><br>
 <a href="{{ site.baseurl }}/pics/2019-8-yunnan/"> 2019-8 Yunnan </a><br>
 <a href="{{ site.baseurl }}/pics/2019-3-peru/"> 2019-3 Peru </a><br>
 
