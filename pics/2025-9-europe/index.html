@@ -33,17 +33,33 @@ layout: default
 <body>
 
 <div class="gallery">
-  <p3>Amsterdam</p3>
+  <p3>Amsterdam</p3><br>
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-amsterdam/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
+  <br><br>
 
-  <p3>Giethoorn and Zaan</p3>
+  <p3>Giethoorn and Zaan</p3><br>
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-giethoorn/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
+  <br><br>
+
+  <p3>Brussels</p3><br>
+  {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-brussels/images/'" %}
+  {% for img in images %}
+    <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
+  {% endfor %}
+  <br><br>
+
+  <p3>Barcelona</p3><br>
+  {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-barcelona/images/'" %}
+  {% for img in images %}
+    <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
+  {% endfor %}
+  <br><br>
 
 </div>
 
