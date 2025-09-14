@@ -1,4 +1,4 @@
-✅<i>横屏</i>
+横屏✅
 
 <b>Fujifilm X100VI</b><br>
 <a href="{{ site.baseurl }}/pics/2025-9-europe/"> 2025-9 Europe</a><br>
