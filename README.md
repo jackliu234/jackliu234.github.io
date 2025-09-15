@@ -15,5 +15,3 @@
 
 <b>Paintings</b><br>
 <a href="{{ site.baseurl }}/pics/drawings/"> 2025 </a><br>
-
-竖屏🙂‍↔️ 横屏✅
