@@ -1,5 +1,3 @@
-横屏✅
-
 <b>Fujifilm X100VI</b><br>
 <a href="{{ site.baseurl }}/pics/2025-9-europe/"> 2025-9 Europe</a><br>
 <a href="{{ site.baseurl }}/pics/2025-8-nyc/"> 2025-8 NYC </a><br>
@@ -18,3 +16,5 @@
 
 <b>Other</b><br>
 <a href="{{ site.baseurl }}/pics/drawings/"> Paintings </a><br>
+
+竖屏🙂‍↔️横屏✅
