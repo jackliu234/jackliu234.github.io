@@ -13,5 +13,5 @@
 <b>Canon 900Ti</b><br>
 <a href="{{ site.baseurl }}/pics/2012-8-yunnan/"> 2012-8 云南 </a><br>
 
-<b>Paintings</b><br>
+<b>Procreate</b><br>
 <a href="{{ site.baseurl }}/pics/drawings/"> 2025 </a><br>
