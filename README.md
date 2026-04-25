@@ -99,7 +99,7 @@
 
 <!-- Galleries sorted newest to oldest -->
 
-<br><b>China, September 2025 TEST</b>
+<br><b>China, September 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-china/images/'" | sort: "path" | reverse %}
