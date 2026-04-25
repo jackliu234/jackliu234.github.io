@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -97,8 +96,6 @@
 </style>
 </head>
 <body>
-
-<h1>📸 Photo Gallery</h1>
 
 <!-- Galleries sorted newest to oldest -->
 
