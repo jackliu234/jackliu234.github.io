@@ -37,7 +37,7 @@
   {% endfor %}
 </div>
   
-<b>Amsterdam, September 2025</b><br>
+<br><b>Amsterdam, September 2025</b><br>
 <div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-amsterdam/images/'" %}
   {% for img in images %}
@@ -71,7 +71,7 @@
 
 <br><b>New York, August 2025</b><br>
 <div class="gallery"> 
-  {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-new-york/images/'" %}
+  {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-nyc/images/'" %}
   {% for img in images %}
     <img src="{{ img.path | relative_url }}" alt="{{ img.name }}">
   {% endfor %}
