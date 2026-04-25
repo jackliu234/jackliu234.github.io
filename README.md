@@ -99,7 +99,7 @@
 
 <!-- Galleries sorted newest to oldest -->
 
-<br><b>China, September 2025 TEST</b><br>
+<br><b>China, September 2025 TEST</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-china/images/'" | sort: "path" | reverse %}
@@ -108,7 +108,7 @@
   {% endfor %}
 </div>
   
-<br><b>Amsterdam, September 2025</b><br>
+<br><b>Amsterdam, September 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-amsterdam/images/'" | sort: "path" | reverse %}
@@ -117,7 +117,7 @@
   {% endfor %}
 </div>
 
-<br><b>Giethoorn and Zaan, September 2025</b><br>
+<br><b>Giethoorn and Zaan, September 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-giethoorn-zaan/images/'" | sort: "path" | reverse %}
@@ -126,7 +126,7 @@
   {% endfor %}
 </div>
 
-<br><b>Brussels, September 2025</b><br>
+<br><b>Brussels, September 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-brussels/images/'" | sort: "path" | reverse %}
@@ -135,7 +135,7 @@
   {% endfor %}
 </div>
 
-<br><b>Barcelona, September 2025</b><br>
+<br><b>Barcelona, September 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-barca/images/'" | sort: "path" | reverse %}
@@ -144,7 +144,7 @@
   {% endfor %}
 </div>
 
-<br><b>New York, August 2025</b><br>
+<br><b>New York, August 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-8-nyc/images/'" | sort: "path" | reverse %}
@@ -153,7 +153,7 @@
   {% endfor %}
 </div>
 
-<br><b>Hoboken, July 2025</b><br>
+<br><b>Hoboken, July 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-7-hoboken/images/'" | sort: "path" | reverse %}
@@ -162,7 +162,7 @@
   {% endfor %}
 </div>
 
-<br><b>Chicago, October 2019</b><br>
+<br><b>Chicago, October 2019</b>
 <br><i>Nikon F100</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2019-10-chicago/images/'" | sort: "path" | reverse %}
@@ -171,7 +171,7 @@
   {% endfor %}
 </div>
 
-<br><b>Italy, September 2019</b><br>
+<br><b>Italy, September 2019</b>
 <br><i>Nikon D5600</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2019-9-italy/images/'" | sort: "path" | reverse %}
@@ -180,7 +180,7 @@
   {% endfor %}
 </div>
 
-<br><b>Yunnan, August 2019</b><br>
+<br><b>Yunnan, August 2019</b>
 <br><i>Nikon D5600</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2019-8-yunnan/images/'" | sort: "path" | reverse %}
@@ -189,7 +189,7 @@
   {% endfor %}
 </div>
 
-<br><b>Peru and Bolivia, March 2019</b><br>
+<br><b>Peru and Bolivia, March 2019</b>
 <br><i>Nikon D5600</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2019-3-peru/images/'" | sort: "path" | reverse %}
@@ -198,7 +198,7 @@
   {% endfor %}
 </div>
 
-<br><b>Yunnan, August 2012</b><br>
+<br><b>Yunnan, August 2012</b>
 <br><i>Canon 900Ti</i><br>
 <div class="gallery"> 
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2012-8-yunnan/images/'" | sort: "path" | reverse %}
