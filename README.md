@@ -99,7 +99,16 @@
 
 <!-- Galleries sorted newest to oldest -->
 
-<b>China, September 2025</b>
+<b>China, May 2026</b>
+<br><i>Fujifilm X100VI</i><br>
+<div class="gallery">  
+  {% assign images = site.static_files | where_exp:"file","file.path contains '/2026-5-china/images/'" | sort: "path" | reverse %}
+  {% for img in images %}
+    <img src="{{ img.path | relative_url }}" alt="{{ img.name }}" loading="lazy" onclick="openLightbox(this.src)">
+  {% endfor %}
+</div>
+
+<br><b>China, September 2025</b>
 <br><i>Fujifilm X100VI</i><br>
 <div class="gallery">  
   {% assign images = site.static_files | where_exp:"file","file.path contains '/2025-9-china/images/'" | sort: "path" | reverse %}
